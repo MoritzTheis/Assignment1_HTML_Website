@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    <meta charset = "UTF - 8">
+    <meta name = " author " content = " Dave Gray " >
+    <meta name = " description " content = " The official website for The Dönerbude" >
+    <title > The Dönerbude </title >
+    <link rel = " icon " href = "favicon.ico " type = " image / x - icon " >
+    <link rel = " stylesheet " href = " css / style.css " >
+</head> 
+<body>
+    <h1>THE DÖNERBUDE</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="products.html">Products</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact US</a
+    </nav>
+    <br>
+    <br>
+    <img src="img/Dönerbude.jpeg" height="500">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <pre> <b>The Dönerbude locations</b>
+    <ul>
+        <li>Berlin</li>
+        <li>Heilbronn</li>
+        <li>Stuttgart</li>
+        <li>Hellenhahn - Schellenberg</li>
+    </ul>
+    </pre>
+    <br>
+    <br>
+    <a href="https://www.pamukkale-kebaphaus.de/ist-doener-das-gesuendeste-fastfood/">Read about Döner</a>
+    <br>
+    <hr>
+    <hr>
+    <footer>
+        <pre> Copyright & copy; The Dönerbude
+
+ Contact:
+ +123456789
+ Dönerbude@gmail.com
+        </pre>
+    </footer>
+</body>
+</html>
